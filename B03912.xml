@@ -1,0 +1,461 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Iohn Robinson's park, or A merry fit of wooing. Within a park a young man met a maid with courting and sporting the damsel with him staid in pastime and pleasure she uttered her mind saying pray thee sweet hony be loving and kind.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03912</idno>
+            <idno type="STC">Wing J763A</idno>
+            <idno type="STC">ESTC R179101</idno>
+            <idno type="EEBO-CITATION">47012484</idno>
+            <idno type="OCLC">ocm 47012484</idno>
+            <idno type="VID">174450</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174450)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2689:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Iohn Robinson's park, or A merry fit of wooing. Within a park a young man met a maid with courting and sporting the damsel with him staid in pastime and pleasure she uttered her mind saying pray thee sweet hony be loving and kind.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Contains 2 illustrations.</note>
+                  <note>Right half sheet contains: The second part to the same tune.</note>
+                  <note>Reproduction of original in: University of Glasgow. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+               <term>Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:174450:1"/>
+            <!-- PDF PAGE 11 -->
+            <head>
+               <hi>Iohn Robinſons Park,</hi> Or a merry fit of Wooing.</head>
+            <argument>
+               <l>Within a Park a young Man met a Maid</l>
+               <l>With courting and ſporting the Damſel with him ſtaid</l>
+               <l>In paſtime and pleaſure ſhe uttered her mind</l>
+               <l>Saying pray thee ſweet hony be loving and kind,</l>
+            </argument>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>AS I went through</l>
+                  <l>
+                     <hi>John Robinſons</hi> Park,</l>
+                  <l>I heard a Bir<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſinging</l>
+                  <l>which pleaſed my heart:</l>
+                  <l>It pleaſed my heart</l>
+                  <l>and contented my mind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Saying pray thee ſweet hony</hi>
+                     </l>
+                     <l>
+                        <hi>be loving and kind.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Be loving and kind Love</l>
+                  <l>and take my advice,</l>
+                  <l>And be no more cheated</l>
+                  <l>at Cards or at Dice,</l>
+                  <l>For the Cards and the Dice</l>
+                  <l>Love, will do the much harm,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then ſtay at home Honey</hi>
+                     </l>
+                     <l>
+                        <hi>to keep thy love warm.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Sweet hony make much</l>
+                  <l>of thy Fallow Déer,</l>
+                  <l>To hurt them and chaſe them</l>
+                  <l>thou needſt not to fear;</l>
+                  <l>Take pleaſure at home</l>
+                  <l>to content thy mind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And I pray thee ſweet hony</hi>
+                     </l>
+                     <l>
+                        <hi>be loving and kind.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>To take my advice,</l>
+                  <l>it will do thee good,</l>
+                  <l>To encreaſe thy hearth</l>
+                  <l>and nouriſh thy blood,</l>
+                  <l>It will be to thy pleasure</l>
+                  <l>and content my mind.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then pray thee ſ<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>eet hony</hi>
+                     </l>
+                     <l>
+                        <hi>be loving and kind.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Within thy own Park, Love</l>
+                  <l>thou haſt a pure Doe,</l>
+                  <l>To hunt at thy pleaſure</l>
+                  <l>full well thou doſt know,</l>
+                  <l>Then take thy fill</l>
+                  <l>to content thy mind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Then I pray thee ſweet hony</hi>
+                     </l>
+                     <l>
+                        <hi>be loving, &amp;c,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Uncouple your Dogs</l>
+                  <l>and ſound up thy horn,</l>
+                  <l>And lay them on cloſely</l>
+                  <l>thy Doe for to chaſe,</l>
+                  <l>For better thou may hunt her</l>
+                  <l>from Evening till Morn,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>while I in my arms <gap reason="illegible" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>ove</hi>
+                     </l>
+                     <l>
+                        <hi>Thy body imbrace.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part</head>
+               <opener>to the ſame Tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>CAll <hi>Herpin</hi> and <hi>Terepin,</hi>
+                  </l>
+                  <l>and bonny <hi>Blew Bell</hi>
+                  </l>
+                  <l>Call <hi>Terry<gap reason="illegible" extent="2 letters">
+                           <desc>••</desc>
+                        </gap>g</hi> and <hi>Malkin</hi>
+                  </l>
+                  <l>to ſoun<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> up the Knell:</l>
+                  <l>Call <hi>Prickear</hi> and <hi>Primroſe</hi>
+                  </l>
+                  <l>the game for to mind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And I pray thee ſweet hony</hi>
+                     </l>
+                     <l>
+                        <hi>be loving and kind.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Call <hi>D<gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ummer</hi> and <hi>Plummer</hi>
+                  </l>
+                  <l>and <hi>Ginger</hi> d<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>line;</l>
+                  <l>Cal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>
+                        <gap reason="illegible: missing" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>aller</hi> and <hi>Waller</hi>
+                  </l>
+                  <l>the gam's at the prime</l>
+                  <l>And let the Beugle horn</l>
+                  <l>ſoundly you blo<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>So meerily ran the hounds</hi>
+                     </l>
+                     <l>
+                        <hi>all on a row.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Here's <hi>Nector</hi> and <hi>Hector</hi>
+                  </l>
+                  <l>and <hi>Sampſon ſo ſtrong,</hi>
+                  </l>
+                  <l>And Lilly white <hi>Larkin</hi>
+                  </l>
+                  <l>ſaid the Doe all along,</l>
+                  <l>Yet had no great hurt</l>
+                  <l>which pleaſed my mind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And I play thee ſweet hony</hi>
+                     </l>
+                     <l>
+                        <hi>be loving and kind.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>The game being ended</l>
+                  <l>the tru<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h for to tell,</l>
+                  <l>He took up his Dogs</l>
+                  <l>which ran paſſing well;</l>
+                  <l>The pleaſure and paſtime</l>
+                  <l>well pleaſed my mind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Saying pray thee ſweet hony</hi>
+                     </l>
+                     <l>
+                        <hi>be, &amp;c:</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Well now my ſwyet hony</l>
+                  <l>thy counſel I'le take,</l>
+                  <l>The cards and the Dice, Love,</l>
+                  <l>I mean to forſake,</l>
+                  <l>And nay at home hony</l>
+                  <l>to content thy mind.</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And I vow evermore</hi>
+                     </l>
+                     <l>
+                        <hi>to be, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>For many a time</l>
+                  <l>abroad I did go</l>
+                  <l>To see my Hounds run</l>
+                  <l>after <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> wild Doe,</l>
+                  <l>Though now I confeſs</l>
+                  <l>it hath done me much harm,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Now l'l ſtay at home hony</hi>
+                     </l>
+                     <l>
+                        <hi>to keep my love warm,</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>At Cards and at Dice</l>
+                  <l>I have many a day</l>
+                  <l>Delighted my ſelf</l>
+                  <l>to ſport and to play,</l>
+                  <l>And when the night came</l>
+                  <l>I have chaſt the wild Doe</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But now I intend Love</hi>
+                     </l>
+                     <l>
+                        <hi>to do no more ſo.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Come all you brave Huntſmen,</l>
+                  <l>that loves Fallow Deer</l>
+                  <l>Vnto this my story</l>
+                  <l>I pray lend an ear.</l>
+                  <l>If hunting the Doe</l>
+                  <l>come to you by kind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>The ſound of the Horn</hi>
+                     </l>
+                     <l>
+                        <hi>will run ſtill in your mind.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Your Dogs and your horn</l>
+                  <l>I and your Croſs Bow</l>
+                  <l>Is all your delight</l>
+                  <l>where ever you go</l>
+                  <l>And the quarter ſtaffe</l>
+                  <l>muſt not ſtay behind;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Saying pray thee ſweet hony</hi>
+                     </l>
+                     <l>
+                        <hi>be loving and kind.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Concluding if any</l>
+                  <l>deſire to know</l>
+                  <l>What is the true m<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ning</l>
+                  <l>of this Fallow Doe;</l>
+                  <l>Or wh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> this Theam</l>
+                  <l>doth run ſo in mind</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>To ſay pray the ſweet, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>As late in an evening</l>
+                  <l>I chanced to walk</l>
+                  <l>I heard a young couple</l>
+                  <l>moſt lovingly talk.</l>
+                  <l>But what they did elſe</l>
+                  <l>It muſt ſtay behind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Saying, &amp;c.</hi>
+                     </l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Their ſport being ended</l>
+                  <l>alway they did go</l>
+                  <l>This gallant brave Keeper</l>
+                  <l>and his Fallow Doe.</l>
+                  <l>For ſporting and courting</l>
+                  <l>he had pleaſed her mind,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Saying pray thee ſweet honey</hi>
+                     </l>
+                     <l>
+                        <hi>be loving and kind.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
